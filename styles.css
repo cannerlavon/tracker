@@ -72,11 +72,13 @@ nav .nav-links li a:hover {
 .hero h1 {
     font-size: 3em;
     margin-bottom: 20px;
+    color: #000;
 }
 
 .hero p {
     font-size: 1.2em;
     margin-bottom: 30px;
+    color: #000;
 }
 
 .hero button {
